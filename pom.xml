@@ -37,6 +37,10 @@
     <module>day01-quick</module>
     <module>day01-quick</module>
     <module>day01-web</module>
+     <module>day01-web</module>
+     <module>day01-web</module>
+     <module>day01-web</module>
+    
   </modules>
   
 </project>
